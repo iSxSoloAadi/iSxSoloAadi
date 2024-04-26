@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding,Programming and Exploring the new community
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me by Gmail :- Rupaliop576@gmail.com
+- 📫 How to reach me by Gmail :  adityavishwakarma9322@gmail.com
 
 <!---
 iSxSoloAadi/iSxSoloAadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
